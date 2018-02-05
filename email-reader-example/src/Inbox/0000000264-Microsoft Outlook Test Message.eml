@@ -1,0 +1,81 @@
+X-Apparently-To: tech_mfaic@yahoo.com; Thu, 11 Jan 2018 06:45:30 +0000
+Return-Path: <camemb.chn@mfaic.gov.kh>
+Received-SPF: temperror (encountered temporary error during SPF processing of domain of mfaic.gov.kh)
+X-YMailISG: LezivtEWLDvcCRCvlxRb__fecAsRQqHakTwEHhdF.cNIK4hM
+ M4cLO75L6VKfHXyUtU1XSx78gkOMC5EZUF4F6VuVdW1Od6MoUzfsuIZMjHZ0
+ kn4pBs4dHIghKl0ShJ9Fz2JoZz5GDgQlT74R1aEb0p3UWqLmOXsfgGZO3CzT
+ Svu.RJ2s713N2LVxeXKqFHQWH6aT2kp2HjFse5htmK2wySUfwvGHGGZrBSl6
+ IBFUIcfmkbFZnxvmG0IIeHEmKpx8Y1qrZwJffvMX3t8xUJ1QddKr4K3lw8v4
+ Pq.ALkIKf5gf21kbgpra2H8Z66A84wOC5yuMNjOa0PixkDBLYOiAynRpjcKn
+ mPv2l8BriQg6shkXrWioHidtxl.XRASY.tipdsNgxVOLPfCfqrW22ynb5XY0
+ UWjsvVRUGpCX9kVEhseaZzVhWSzy6iT_HgPUUv4gCZAgbv0JfNNuT983eL19
+ RlK7mptUsdtBA1xihy09dRpedOkrSMI6UCHPtZVSEAXbVSxrAk8XpbwsjMRI
+ 4mSASAojuAkHbo0ZEZburb8QyTUXIIkOjgrW8R4Lbe.GQwO0AasVr.LCUOY7
+ OCBnkD5ZbTGsI6NpXZFOGj5bemo1sc5_MZ0T60gmvaCQhQkZAqlhWiEaCvO8
+ eURkmYCQgMwCCjkhsvln0wcpoXDSl7OkotGHzDG8u9.Zw9jJZChXb7g9U1m0
+ fCv9h1NamCXfvDS0RlYuMD9.XQnVSqJRh9VHaKzQ84c1z.vtIbSK4KJJJmhE
+ Tj.i4VKHEUArVOOd4v2tAxZAuoe2eQAYMCzlXM9_BUXVObd8Ap5Zr7F1nAiq
+ DLoKEKTtFpxEsosP_6S0HHbdjHO9MeCh.p00BOxCIeVx.tkBNPJ3kk4r6PZd
+ bon8b4ojtmgM_RkScF9XM.K.ojBC_98tqClTdcS9TjCPzPTgMV5LlU46Xhy2
+ 1eXMCLRxz0tmfS4Iir8TwhZ0zW4tnSEfHp_gndwjRNwaLcgTcC0MrXm74Fp7
+ ADhkXGVAkItB481K
+X-Originating-IP: [103.16.62.107]
+Authentication-Results: mta4227.mail.gq1.yahoo.com  from=mfaic.gov.kh; domainkeys=neutral (no sig);  from=mfaic.gov.kh; dkim=permerror (bad DNS reply)
+Received: from 127.0.0.1  (EHLO mail.mfaic.gov.kh) (103.16.62.107)
+  by mta4227.mail.gq1.yahoo.com with SMTPS; Thu, 11 Jan 2018 06:45:23 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=mfaic.gov.kh; s=default; h=Content-Type:MIME-Version:Subject:To:Sender:From
+	:Reply-To:Date:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=azSX0MdEEpbksk9ZAfP3KPfNYY6Z+ia+i/EbLz1yB7E=; b=ubBR1Oztz7z4A9GNeWljFin5Je
+	O61jv4d9QenbgompirUMyHvK01w1Mu1sA8yeBCAwJsR5tvCTlSZnK0KuTUQjdodgVsmsAWqVkGN2g
+	fXXqEVqgUDmhZtWhIUBPgTrpPZEwf+3XIlS2teoGYHAwa+ccYLSuQhXE4eN/kMKfnXc17/IucPLoS
+	vR0MresiEoiC7+C8GhUAvBM2vkwMqdM2bNuMRcY2cgcCUlwvEgzO6QLxlWhj0Skk+bBMfzZsdhJxo
+	iu7cmiuWR1MWXozK83xkX1Dbulyq8E7k0VnoinfbXMzcLhFsEGbxTurfGfnAGm8Lp55zNH56ra9Vv
+	Pa21aLcw==;
+Received: from [221.217.225.6] (port=51083 helo=DESKTOP8K7ONC0)
+	by mail.mfaic.gov.kh with esmtp (Exim 4.89_1)
+	(envelope-from <camemb.chn@mfaic.gov.kh>)
+	id 1eZWc0-000XHU-2v
+	for camemb.chn@mfaic.gov.kh; Thu, 11 Jan 2018 13:45:16 +0700
+From: "Microsoft Outlook" <camemb.chn@mfaic.gov.kh>
+Sender: "Microsoft Outlook" <camemb.chn@mfaic.gov.kh>
+To: "Embassy of Cambodia in Beijing" <camemb.chn@mfaic.gov.kh>
+Subject: Microsoft Outlook Test Message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_004B_01D38AEA.CA0EE330"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.mfaic.gov.kh
+X-AntiAbuse: Original Domain - mfaic.gov.kh
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - mfaic.gov.kh
+X-Get-Message-Sender-Via: mail.mfaic.gov.kh: mailgid via get_recent_authed_mail_ips_entry: camemb.chn@mfaic.gov.kh/full match of from_h in recent_authed_mail_ips_users
+X-Authenticated-Sender: mail.mfaic.gov.kh: camemb.chn@mfaic.gov.kh
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 616
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_004B_01D38AEA.CA0EE330
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is an e-mail message sent automatically by Microsoft Outlook while =
+testing the settings for your account.
+
+------=_NextPart_000_004B_01D38AEA.CA0EE330
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>This is an e-mail message sent automatically by Microsoft =
+Outlook while testing the settings for your account.
+</p></body></html>
+------=_NextPart_000_004B_01D38AEA.CA0EE330--
+

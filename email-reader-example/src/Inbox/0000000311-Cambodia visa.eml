@@ -1,0 +1,125 @@
+X-Apparently-To: tech_mfaic@yahoo.com; Sun, 14 Jan 2018 03:47:52 +0000
+Return-Path: <juniorsua@icloud.com>
+Received-SPF: softfail (transitioning domain of icloud.com does not designate 103.16.62.107 as permitted sender)
+X-YMailISG: dHR0BnkWLDsh4aDEeYK3EDliD77lb88qpouUo2jdb8ooZbft
+ vdeYxTftRE6kpwVUMf3_ZMcezWLX80Xd3QnhZJlVeJ0tdcqR91vqOkViranH
+ 9WFFbpfxW0lyVKMNh0i0ntR1kd3vQeESGzaE6uEcu8kzENPUhluIYwE3GC.H
+ PxFKvJ9fHxh4dKBDt0GUHGFsO.NmV.Yv9ashEtZctINtdN9Chmx2AKmn8VOJ
+ _O.zAVJj5zD6gKYq.h3eWW1WnAwiCGmjNn97G0sBmsO8tS7hL29mEE_ycFob
+ _WIcEuQGmsTs5gSheoImeo.ar157MTkl6L8t5g.Da6r3PRhHiEwoWHNfbqTq
+ tmNpbh7PAiccv4xTl29gh1voEeRum3GBrwL3HQfRiz4UEXrpu7nst7g.rFfA
+ H7frd0vlI6iMr49WI4L0jiBP8EX4N7mc1nswCdTkFJeocXv0LtoDejbROaF5
+ qvXK__wvodIfSLRnKnrtt8CnQiAghG9MAy.o98DswUWCrpUCqSZ.z1OV4GYM
+ ETHQTlnnlc3SUREIubel3Vm1sz8NZONzs6wS40GE3NC1_syAtQdb2dUAz02E
+ axXCfFU.93lew5vkRMF5PtGlQKmiWTonyIf9NvLrkqlBltxThA1M5yV8xuqT
+ A3MKU6WzPYCfXdrufrKqrZBwsmjWdAx9Fflv3y4KJ.8zR38UBxrwoV.uPV5J
+ X168VYQCm71Hmtj9XazwRn9VXuHuUvRrchnKyQg7oUXZbOBiGKhCGbw22Jmv
+ 7NxBr9BKpSkpmTqW558ha3yn1v.YJ60lqiRUimqhX8z5z0JCRihZi7YGrwK_
+ oZH_7TA1txeaG_pZcBRMFvsO.6TszaQlnZWfuoIF4pik3xJB_4UswuicoTbj
+ R2itx1zzyDrxEBP95xJdqqHWYsqltFTaa2P9gl61qqbiXmupWm1Cl3gY6PGF
+ cyUGAR_dJ1f5pJblyQR8CfcMSlFk9jXNY9sCD9DXfEiEdUEmqi6toh_pOcaL
+ jCz4n8okJq9wrOI0wdKkyTovoAxGN.OmeZuEC2YKXFDkFaXPEo6z8_T4lyXX
+ Q.jWLqm9zWCayNsRpRCuZl0vnXW7riLQAV7SnAhaWlYiddtjS6qXZtQVWf3o
+ l2o_tadUFkeErgDgr0A-
+X-Originating-IP: [103.16.62.107]
+Authentication-Results: mta4001.mail.bf1.yahoo.com  from=icloud.com; domainkeys=neutral (no sig);  from=icloud.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail.mfaic.gov.kh) (103.16.62.107)
+  by mta4001.mail.bf1.yahoo.com with SMTPS; Sun, 14 Jan 2018 03:47:51 +0000
+Received: from st14p25im-asmtp003.me.com ([17.162.181.61]:63180)
+	by mail.mfaic.gov.kh with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <juniorsua@icloud.com>)
+	id 1eaZGh-0008i8-3Z
+	for camcg.hk@mfaic.gov.kh; Sun, 14 Jan 2018 10:47:47 +0700
+Received: from process-dkim-sign-daemon.st14p25im-asmtp003.me.com by
+ st14p25im-asmtp003.me.com
+ (Oracle Communications Messaging Server 8.0.1.2.20170607 64bit (built Jun  7
+ 2017)) id <0P2J009000UM0700@st14p25im-asmtp003.me.com> for
+ camcg.hk@mfaic.gov.kh; Sun, 14 Jan 2018 03:46:52 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;	s=04042017;
+ t=1515901612;	bh=/mhTLuu+ZjwjQKH8yyNd8+85a7E17EeLzPEt/gVbCDE=;
+	h=From:Content-type:MIME-version:Date:Subject:Message-id:To;
+	b=YDAH3YOPFmcQZOHus2XKKGqHyjg6P2yCn/I66ESq5bca5gjpW25AKzIs0s79iQ4fi
+ IrEGO0EkGF6ZkhoZVUG8u3FKuBNTCu02a2F8gz+WlbehpSpcWtGyhOQCtFKsCG/bZD
+ b7ga2hHed1RDhlhpcCyyj4xjCQYU32jdDrsQVxfOAjsXdw8qj3YEyHVByUJnMb53+o
+ X/qpKj8sb+fSYF7t1U/BMVzYmPy2FeHpcerwehH9muxH5sLYa9rPAxL0pO6ld6yZhv
+ JsofDVXoZ5zNSbu2oTQq+Dg1bGbmzoHVk3InP2037KGCadyaGSHg4qJpvq8TWtgVcs
+ sXwl8cnVeO6PA==
+Received: from icloud.com ([127.0.0.1]) by st14p25im-asmtp003.me.com
+ (Oracle Communications Messaging Server 8.0.1.2.20170607 64bit (built Jun  7
+ 2017)) with ESMTPSA id <0P2J014CE15ZJH40@st14p25im-asmtp003.me.com> for
+ camcg.hk@mfaic.gov.kh; Sun, 14 Jan 2018 03:46:51 +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2018-01-14_01:,, signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=1 spamscore=1
+ clxscore=1011 suspectscore=1 malwarescore=0 phishscore=0 adultscore=0
+ bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1707230000 definitions=main-1801140053
+From: Junior Suapi Sua <juniorsua@icloud.com>
+Content-type: text/plain; charset=us-ascii
+Content-transfer-encoding: quoted-printable
+MIME-version: 1.0 (1.0)
+Date: Sun, 14 Jan 2018 11:46:47 +0800
+Subject: Cambodia visa
+Message-id: <E847A54F-26E9-409C-88FC-AF3CCC65686F@icloud.com>
+To: camcg.hk@mfaic.gov.kh
+X-Mailer: iPhone Mail (15C202)
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "mail.mfaic.gov.kh",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Dear Sir Please advise if I need to apply visa to visit Cambodia
+    on the 1st of February to the 5th I hold SAMOA passport [...] 
+ 
+ Content analysis details:   (1.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.7 DEAR_SOMETHING         BODY: Contains 'Dear (something)'
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: icloud.com]
+ -0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [17.162.181.61 listed in wl.mailspike.net]
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.mfaic.gov.kh
+X-AntiAbuse: Original Domain - mfaic.gov.kh
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - icloud.com
+X-Get-Message-Sender-Via: mail.mfaic.gov.kh: redirect/forwarder owner camcg.hk@mfaic.gov.kh -> tech_mfaic@yahoo.com
+X-Authenticated-Sender: mail.mfaic.gov.kh: camcg.hk@mfaic.gov.kh
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 220
+
+
+Dear Sir
+
+Please advise if I need to apply visa to visit Cambodia on the 1st of Februa=
+ry to the 5th
+
+I hold SAMOA passport=20
+
+Thank you looking forward to hear from you
+
+Junior Suapi Sua
+
+
+
+I=20
+Sent from my iPhone=

@@ -1,0 +1,24 @@
+
+build a email-filter tool that puts email in categorized folders
+that accepts multiple mail-server header
+
+0. 
+1. get list of mails
+	- navigate to working dir
+	- read (iterate or read a bunch of xx mails)
+	- validate
+	
+2. put mails in categorized folders
+	- categorized by type-of-mail-server
+	- ............by address
+	- ............by name >> finalize
+	
+==============================================================
+1. Get file 
+	- 2 ways to read bunch of files: 
+		+ copy all to mem & read
+		+ read continously
+
+2. Classify
+	- analyze header
+	- put in corresponding folder

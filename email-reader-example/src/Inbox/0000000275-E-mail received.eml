@@ -1,0 +1,83 @@
+X-Apparently-To: tech_mfaic@yahoo.com; Fri, 05 Jan 2018 02:21:17 +0000
+Return-Path: <>
+Received-SPF: temperror (encountered temporary error during SPF processing of domain of mail.mfaic.gov.kh)
+X-YMailISG: QVlCl7UWLDtAzg1Oq4jfSUHBHVW1vBoTJ1BXXneEtf6DQxEe
+ isgSZfr6m_mx0RIZcoULKTtNSkUbAE.xmUofwEab9GLnQA52aVFngZrRWJjr
+ sa7mwtfDSXYj1ZryxrFtw9ss0LjAQrEibefGENY1o_ylZxjV3cAUeE07odjo
+ PcuhMLg1gwkGimNH_vGa6mEFz_nNGzb60F86aaggvPHCr6TDpnlkJGOKH2Dr
+ C7pwc1fK8VbpFH6c.MgEYBnL2WOs3A0MDMpKMOlQSvozWJtf2E8ly6AbBxz9
+ rac.OB3kvjC3EQBbI9AStORNkjcFJu1.QQnJzbEITzFYxEKXhavX3uvcVN6I
+ dBC.mF0IcupHukqyGdAsEZhTSenmvNfSyCyRTygr434OsV89Xt2m4JuDuMiV
+ HXOUPGXvDNT9O4kL5YZ5lHNQypPaRLl0N2CjLAlntAoc74b1yojYgwVeFEVD
+ h.2W5ZZbUI5t3RwqtVi9QR6tU3M9wPtUANd9scLZVkdfKhs8y1ADkvZc4mqZ
+ gl8fkTD74L5rYS.HRKyc8aSLE9mH0Kkqyl7MuNmEqUbKyZYrQVxG6.HxAFrb
+ kZLNoe72xiawGkdIvj5UZ2aYwp4fhSkCBgXf0pohDqRrvR87AlokeAMDBxHS
+ vBtGO9jM.43jh7bDwwTeuMfNeF3hyG6GpZLjAZ7cgwKGM7VHmXEbGI4GBSi0
+ l7o55xHkoiwymNQPjrUpJnVolEvBPxngpFhGr3hofI3x9TaLMzQMfbETXRdv
+ DipaM2kuVLD7DcHAPDrHnDqMgV2Ei0hUKUEEdDCXznR9WJiR0g1HmXRqiMaR
+ EqB40V3Ib9DBavH94GnUQuXfVjMoVg0b2X9kbyN541c3lFB2NLSoKzrkzZOH
+ 7cjIJFBx6wg3C35j4KloLE84fkHSvdTmECy6zbbCooUyT7nGlUJfIK.eL_Bw
+ I07zhtkmXb4oObujSd5WqPFurO3ww9M-
+X-Originating-IP: [103.16.62.107]
+Authentication-Results: mta4452.mail.ne1.yahoo.com  from=mfa.gov.kh; domainkeys=neutral (no sig);  from=mfa.gov.kh; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mail.mfaic.gov.kh) (103.16.62.107)
+  by mta4452.mail.ne1.yahoo.com with SMTPS; Fri, 05 Jan 2018 02:21:14 +0000
+Received: from us2.mailforward.mailhostbox.com ([208.91.198.255]:53255)
+	by mail.mfaic.gov.kh with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.89_1)
+	id 1eXHd6-00044V-4D
+	for camcg.hk@mfaic.gov.kh; Fri, 05 Jan 2018 09:21:11 +0700
+Received: from mss23.mailhostbox.aus-tx.colo (unknown [172.16.214.77])
+	by us2.mailforward.mailhostbox.com (Postfix) with ESMTP id CA9C06515D
+	for <camcg.hk@mfaic.gov.kh>; Fri,  5 Jan 2018 02:20:26 +0000 (GMT)
+Received: by mss23.mailhostbox.aus-tx.colo (Postfix, from userid 300)
+	id C7A6013A0917; Fri,  5 Jan 2018 02:20:26 +0000 (GMT)
+X-Sieve: Pigeonhole Sieve 0.4.16 (1dc4c73)
+Message-ID: <dovecot-sieve-1515118826-797699-2@mss23.mailhostbox.aus-tx.colo>
+Date: Fri, 05 Jan 2018 02:20:26 +0000
+From: <mfaic@mfa.gov.kh>
+To: <camcg.hk@mfaic.gov.kh>
+Subject: E-mail received
+In-Reply-To: <000001d385cb$aa903870$ffb0a950$@mfaic.gov.kh>
+References: <000001d385cb$aa903870$ffb0a950$@mfaic.gov.kh>
+Auto-Submitted: auto-replied (vacation)
+Precedence: bulk
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+X-CMAE-Score: 0
+X-CMAE-Analysis: v=2.2 cv=ZcxtDodA c=1 sm=1 tr=0
+	a=d0X+yPKMAvxjxyA0idjFyQ==:117 a=KiCxJD0x+Pe5VASQKmYoJrcyuOo=:19
+	a=IkcTkHD0fZMA:10 a=RgaUWeydRksA:10 a=ZZnuYtJkoWoA:10
+	a=Xr7EvDxBI7CdIIR5oZEA:9 a=QEXdDO2ut3YA:10
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "mail.mfaic.gov.kh",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  E-mail received [...] 
+ 
+ Content analysis details:   (-0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+X-Spam-Flag: NO
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.mfaic.gov.kh
+X-AntiAbuse: Original Domain - mfaic.gov.kh
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Get-Message-Sender-Via: mail.mfaic.gov.kh: redirect/forwarder owner camcg.hk@mfaic.gov.kh -> tech_mfaic@yahoo.com
+X-Authenticated-Sender: mail.mfaic.gov.kh: camcg.hk@mfaic.gov.kh
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 16
+
+E-mail received
